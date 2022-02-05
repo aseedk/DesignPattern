@@ -1,0 +1,7 @@
+D:\Projects\RiderProjects\DesignPattern\Lab1\bin\Debug\Lab1.exe
+D:\Projects\RiderProjects\DesignPattern\Lab1\bin\Debug\Lab1.pdb
+D:\Projects\RiderProjects\DesignPattern\Lab1\obj\Debug\Lab1.csproj.AssemblyReference.cache
+D:\Projects\RiderProjects\DesignPattern\Lab1\obj\Debug\Lab1.csproj.SuggestedBindingRedirects.cache
+D:\Projects\RiderProjects\DesignPattern\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Projects\RiderProjects\DesignPattern\Lab1\obj\Debug\Lab1.exe
+D:\Projects\RiderProjects\DesignPattern\Lab1\obj\Debug\Lab1.pdb

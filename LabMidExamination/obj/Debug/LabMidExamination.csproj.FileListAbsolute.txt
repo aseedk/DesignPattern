@@ -1,0 +1,7 @@
+D:\Projects\RiderProjects\DesignPattern\LabMidExamination\bin\Debug\LabMidExamination.exe
+D:\Projects\RiderProjects\DesignPattern\LabMidExamination\bin\Debug\LabMidExamination.pdb
+D:\Projects\RiderProjects\DesignPattern\LabMidExamination\obj\Debug\LabMidExamination.csproj.AssemblyReference.cache
+D:\Projects\RiderProjects\DesignPattern\LabMidExamination\obj\Debug\LabMidExamination.csproj.SuggestedBindingRedirects.cache
+D:\Projects\RiderProjects\DesignPattern\LabMidExamination\obj\Debug\LabMidExamination.csproj.CoreCompileInputs.cache
+D:\Projects\RiderProjects\DesignPattern\LabMidExamination\obj\Debug\LabMidExamination.exe
+D:\Projects\RiderProjects\DesignPattern\LabMidExamination\obj\Debug\LabMidExamination.pdb
